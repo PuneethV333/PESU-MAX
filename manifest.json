@@ -75,7 +75,7 @@
   },
   "web_accessible_resources": [
     {
-      "resources": ["content/startPageMain.js", "content/backNavigationMain.js", "content/csrfSyncMain.js"],
+      "resources": ["icons/pesu-logo-dark.png", "content/startPageMain.js", "content/backNavigationMain.js", "content/csrfSyncMain.js"],
       "matches": ["https://www.pesuacademy.com/*"]
     }
   ]
